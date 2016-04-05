@@ -1,9 +1,6 @@
 package za.ac.cput.oop;
 
 import org.junit.*;
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import za.ac.cput.oop.config.AppConfig;
 import za.ac.cput.oop.encapsulation.SoccerPlayerInformation;
 
 /**
